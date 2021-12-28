@@ -2,9 +2,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{mertcanft}/count.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcanft&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcanft&show_icons=true&theme=white) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanft&layout=compact)](https://github.com/mertcanft/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanft&layout=compact)](https://github.com/mertcanft/github-readme-stats)
+
 
 
 
